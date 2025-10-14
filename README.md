@@ -169,3 +169,5 @@ MIT License - see LICENSE file for details
 
 - **Issues**: https://github.com/obra/superpowers/issues
 - **Marketplace**: https://github.com/obra/superpowers-marketplace
+
+- test
