@@ -171,3 +171,4 @@ MIT License - see LICENSE file for details
 - **Marketplace**: https://github.com/obra/superpowers-marketplace
 
 - test app
+- Cambios en repositorio de Juan Pablo 
